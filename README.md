@@ -4,8 +4,6 @@ A collection of English wordlists generated using SCOWL. Includes words with dia
 
 ## Copyright/Credits
 
----
-
 ### Copyright 2000-2014 by Kevin Atkinson
 
   Permission to use, copy, modify, distribute and sell these word
