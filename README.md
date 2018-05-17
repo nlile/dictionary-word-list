@@ -3,8 +3,10 @@
 A collection of English wordlists generated using SCOWL. Includes words with diacritical marks, roman-numerals, and seldomly used spelling variants. All English spelling variants included, American, British (-ise/-ize), Canadian, and Australian.
 
 ## Copyright/Credits
+
 ---
-Copyright 2000-2014 by Kevin Atkinson
+
+### Copyright 2000-2014 by Kevin Atkinson
 
   Permission to use, copy, modify, distribute and sell these word
   lists, the associated scripts, the output created from the scripts,
@@ -15,7 +17,7 @@ Copyright 2000-2014 by Kevin Atkinson
   about the suitability of this array for any purpose. It is provided
   "as is" without express or implied warranty.
 
-Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.
+### Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.
 
   The following restriction is placed on the use of this publication:
   if The UK Advanced Cryptics Dictionary is used in a software package
