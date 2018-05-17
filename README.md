@@ -1,6 +1,6 @@
 # English Words List / Dictionary Word List - Plain Text
 
-A collection of English wordlists generated using SCOWL. Includes words with diacritical marks, roman-numerals, and seldomly used spelling variants. All English spelling variants included, American, British (-ise/-ize), Canadian, and Australian.
+A collection of English wordlists generated using SCOWL. The largest text file includes words with and without diacritical marks, roman-numerals, seldomly used spelling variants, and all English spelling variants—American, British (-ise/-ize), Canadian, and Australian.
 
 ## Copyright/Credits
 
