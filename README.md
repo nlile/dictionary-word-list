@@ -1,6 +1,6 @@
 # English Words List / Dictionary Word List - Plain Text
 
-A collection of English wordlists generated using SCOWL. The largest list is 676K english words.
+A collection of English wordlists generated using [SCOWL](https://github.com/en-wl/wordlist)/[GNU Aspell](https://github.com/GNUAspell/aspell). The largest list includes 676K English words.
 
 ## Text files included
 
@@ -20,9 +20,20 @@ This text file includes **657,803** words.
 - no rare spelling variants,
 - includes Roman Numerals.
 
+### [word_list_en_us_all_spelling_variations_with_diacritic.txt](https://github.com/nlile/dictionary-word-list/blob/master/word_list_en_us_all_spelling_variations_with_diacritic.txt)
+
+This text file includes **663,213** words.
+
+- Only United States English (en_us) spelling, 
+- ALL rare spelling variants,
+- includes Roman Numerals AND diacritical marks.
+
+
+
+
 ## Copyright/Credits
 
-All wordlists were generated using SCOWL. 
+All wordlists were generated using [SCOWL](https://github.com/en-wl/wordlist)/[GNU Aspell](https://github.com/GNUAspell/aspell). 
 
 ### Copyright 2000-2014 by Kevin Atkinson
 
