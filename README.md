@@ -8,7 +8,7 @@ All files are in UTF-8 format, in a simple new-line-delimited text file.
 
 ### [largest_possible_aspell_wordlist.txt](https://github.com/nlile/dictionary-word-list/blob/master/largest_possible_aspell_wordlist.txt)
 
-The largest text file includes **676,792** words. This wordlist includes words 
+The largest text file includes **676,792** words. This wordlist includes words: 
 - with *and without* diacritical marks, 
 - roman-numerals, 
 - seldomly used spelling variants, 
@@ -16,7 +16,7 @@ The largest text file includes **676,792** words. This wordlist includes words
 
 ### [largest_possible_aspell_wordlist_without_diacritic.txt](https://github.com/nlile/dictionary-word-list/blob/master/largest_possible_aspell_wordlist_without_diacritic.txt)
 
-The text file includes **675,508** words. This wordlist includes words 
+The text file includes **675,508** words. This wordlist includes words: 
 - with *and without* diacritical marks, 
 - roman-numerals, 
 - seldomly used spelling variants, 
@@ -24,7 +24,7 @@ The text file includes **675,508** words. This wordlist includes words
 
 ### [word_list_very_common_en_us_spelling_no_diacritic.txt](https://github.com/nlile/dictionary-word-list/blob/master/word_list_very_common_en_us_spelling_no_diacritic.txt)
 
-This text file includes **657,803** words.
+This text file includes **657,803** words. This wordlist includes words: 
 
 - Only United States English (en_us) spelling, 
 - no rare spelling variants,
@@ -32,7 +32,7 @@ This text file includes **657,803** words.
 
 ### [word_list_en_us_all_spelling_variations_with_diacritic.txt](https://github.com/nlile/dictionary-word-list/blob/master/word_list_en_us_all_spelling_variations_with_diacritic.txt)
 
-This text file includes **663,213** words.
+This text file includes **663,213** words. This wordlist includes words: 
 
 - Only United States English (en_us) spelling, 
 - ALL rare spelling variants,
